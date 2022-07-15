@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @honolulu123
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on Java
+- 💞️ I’m looking to collaborate on Java Projects
 - 📫 How to reach me through whatsapp number +91 7640842585
 
 <!---
